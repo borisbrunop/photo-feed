@@ -1,0 +1,19 @@
+
+body{
+    background: rgb(206, 210, 217);
+}
+.container-fluid{
+    background: white;
+    font-size: 30px;
+}
+.row{
+}
+.container{
+    background: white;
+    width: 500px;
+    height: 450px;
+    margin-top: 40px;
+}
+.container p{
+    font-size: 15px;
+}
